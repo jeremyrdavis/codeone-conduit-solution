@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.vertx:vertx-web-client:3.5.1.redhat-004">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-web-client/3.5.1.redhat-004/vertx-web-client-3.5.1.redhat-004.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-web-client/3.5.1.redhat-004/vertx-web-client-3.5.1.redhat-004-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-web-client/3.5.1.redhat-004/vertx-web-client-3.5.1.redhat-004-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
